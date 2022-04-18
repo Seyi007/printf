@@ -1,0 +1,1 @@
+This project is part of the first year curriculum of Alx SE Holberton software engineering program, _printf funtion is a model of the printf funtion created by a group of two people: Seyi Kuforiji, Oladotun Oladotun.
